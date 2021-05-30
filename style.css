@@ -1,0 +1,32 @@
+h1{
+				text-align: center;
+				border: 3px pink groove ;
+}
+h3{
+				text-align:center;
+				border: 3px pink groove ;
+}
+body
+{
+background-color: #FFE6FF ;
+}
+p
+{
+				font-size: 20px;
+				font-family: Arial ;
+				text-align: center;
+				
+}
+ol
+{
+				font-size:20px;
+				text-align: center;
+				border: 3px pink groove ;
+}
+img 
+{
+ width: 200px;
+  display: block;
+   margin-left: auto; 
+   margin-right: auto; 
+   }
